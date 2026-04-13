@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [aadarshsingh.netlify.app](aadarshsingh.netlify.app)
+- 👨‍💻 All of my projects are available at [https://aadarshsingh.netlify.app/](https://aadarshsingh.netlify.app/)
 
 - 💬 Ask me about **what next**
 
